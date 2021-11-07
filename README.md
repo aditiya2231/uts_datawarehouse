@@ -1,1 +1,1 @@
-# uts_datawarehouse
+# membuat 3 tabel dimensi yang pertama saya menampilkan tabel order didalamnya berisi : id, nama_customers, no_hp, tanggal_order, antrian dan komentar. untuk tabel yang kedua saya menampilakan tabel produk yang berisi : id, nama_produk, nama_vendor, quantity_ordered, dan status. untuk tabel yang ketiga saya menampilakan tabel pegawai yang berisi :id , nama_pegawai dan pekerjaan.
